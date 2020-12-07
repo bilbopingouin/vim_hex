@@ -25,3 +25,7 @@ Examples
   = -4294967060
 - `:SHex2Dec ec 8`
   = -20
+
+## Notes
+
+I now grouped this plugin functionality with another one of my repository. It can be found at [vim-calculator](https://github.com/bilbopingouin/vim-calculator).
